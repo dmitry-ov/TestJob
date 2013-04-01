@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="surf">
+</Property><Property Name="Файл решения" Value="C:\grid\surf_8\surf.sln">
+</Property><Property Name="Файл параметров пользователя" Value="C:\grid\surf_8\surf.suo">
+</Property><Property Name="Date" Value="4 мая 2010 г.">
+</Property><Property Name="Time" Value="3:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="surf.sln" Description="Успешно создана резервная копия файла C:\grid\surf_8\surf.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="surf.suo" Description="Успешно создана резервная копия файла C:\grid\surf_8\surf.suo.old">
+</Event><Event ErrorLevel="0" Project="surf" Source="surf\surf.vcproj" Description="Веб-развертывание на локальном IIS-сервере больше не поддерживается. Инструмент веб-развертывания был удален из параметров проекта.">
+</Event><Event ErrorLevel="1" Project="surf" Source="surf\surf.vcproj" Description="Приложение было обновлено, чтобы включить параметры, связанные с контролем учетных записей пользователей (UAC), появившемся в Windows Vista. По умолчанию, в Windows Vista при включенном UAC, приложение запускается с теми же привилегиями, что и запустивший его процесс. Это также делает невозможным запуск приложений с технологией виртуализации. Параметры, связанные с UAC можно поменять на странице свойств проекта.">
+</Event><Event ErrorLevel="0" Project="surf" Source="surf\surf.vcproj" Description="Из проектного файла была успешно сделана резервная копия &quot;C:\grid\surf_8\surf\surf.vcproj.8.00.old&quot;.">
+</Event><Event ErrorLevel="0" Project="surf" Source="surf\surf.vcproj" Description="Проект обновлен успешно.">
+</Event><Event ErrorLevel="3" Project="surf" Source="surf\surf.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="surf.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="surf.sln" Description="Converted">
+</Event></UpgradeLog>
